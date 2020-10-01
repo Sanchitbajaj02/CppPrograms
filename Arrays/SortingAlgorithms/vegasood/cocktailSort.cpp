@@ -49,7 +49,7 @@ int main()
                 }
             }
 
-
+        //odd iterators will run the bubble sort swap from right to left
         } else if (i%2 != 0){
         
             for (j=len-2; j>=0; j--){
