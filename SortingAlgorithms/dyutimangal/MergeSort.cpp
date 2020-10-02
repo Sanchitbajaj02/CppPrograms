@@ -1,4 +1,4 @@
-#include <iostream.h>
+#include <iostream>
 using namespace std;
 
 /*Merge Sort is a comparison based algorithm that sorts an array in O(nlogn) time complexity*/
