@@ -5,3 +5,7 @@
 #### Name: [Dyuti Mangal](https://github.com/dyutimangal)
 - Place: Delhi, India
 - GitHub: [dyutimangal](https://github.com/dyutimangal)
+
+### Name: [Chris Michel](https://github.com/chr15-m1ch)
+- Place: Mauritius
+- Github: [chr15-m1ch](https://github.com/chr15-m1ch)
