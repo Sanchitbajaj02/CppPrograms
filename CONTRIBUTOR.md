@@ -11,5 +11,5 @@
 - Github: [chr15-m1ch](https://github.com/chr15-m1ch)
 
 #### Name: [Taruna Saini](https://github.com/Taruna06)
-    - Place: Panchkula, Haryana, India
-    - GitHub: [Taruna06](https://github.com/Taruna06)
+- Place: Panchkula, Haryana, India
+- GitHub: [Taruna06](https://github.com/Taruna06)
