@@ -3,10 +3,13 @@ using namespace std;
 
 int main()
 {
-    int sum=0;
-    for (int i=0; i<10; i++)
+	int n; //total terms
+	cout<<"Enter the total number of terms: ";
+	cin>>n;
+    int sum=0; //sum counter
+    for (int i=0; i<n; i++)
     {
-        sum=sum+i;
+        sum=sum+i; //sum variable updation
     }
-    cout<<"sum:"<<sum<<endl;
+    cout<<"sum of "<<n<<" terms is :"<<sum<<endl;
 }
