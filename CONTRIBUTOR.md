@@ -17,3 +17,7 @@
 ### Name: [Hillary Moutou](https://github.com/hillamu2)
 - Place: Mauritius
 - Github: [hillamu2](https://github.com/hillamu2)
+
+## Name: [Manoj singh](https://github.com/Manojsingh929)
+- Place: Uttarakhand, India
+- GitHub: [Manojsingh929](https://github.com/Manojsingh929)
