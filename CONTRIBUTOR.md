@@ -21,3 +21,7 @@
 ### Name: [Vivek Chauhan](https://github.com/cvivek503)
 - Place: Delhi, India
 - Github: [cvivek503](https://github.com/cvivek503)
+
+### Name: [Aman Singh](https://github.com/peaceDude404)
+- Place: Kanpur, Uttar Pradesh, India
+- Github: [peaceDude404](https://github.com/peaceDude404)
