@@ -25,3 +25,7 @@
 ### Name: [Aman Singh](https://github.com/peaceDude404)
 - Place: Kanpur, Uttar Pradesh, India
 - Github: [peaceDude404](https://github.com/peaceDude404)
+
+### Name: [Sachin Biradar](https://github.com/sachinbir)
+- Place: Pune, India
+- Github: [csachinbir](https://github.com/sachinbir)
