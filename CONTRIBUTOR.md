@@ -29,3 +29,7 @@
 ### Name: [Sachin Biradar](https://github.com/sachinbir)
 - Place: Pune, India
 - Github: [csachinbir](https://github.com/sachinbir)
+
+#### Name: [Pratik Shirodkar](https://github.com/Pratik-Shirodkar)
+- Place: Goa, India
+- GitHub: [Pratik Shirodkar](https://github.com/Pratik-Shirodkar)
